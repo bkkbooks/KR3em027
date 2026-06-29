@@ -1,0 +1,284 @@
+canonical_identifier: bkk:krp/KR3em027/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em027/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白喉全生集
+  identifiers:
+    krp: KR3em027
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em027.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em027_000-jc.yaml, hash: 'sha256:a20cd8a4ee7830ef660c9586796e91998455b143d5dd4b2c1221c6a1e66404cb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em027_000-jc.markers.yaml, hash: 'sha256:093fc38c8a9b77d0beb89e0c3d4ae250c826979ce92fe84967d0f6b41618cb61'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 272
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d3.h1s1
+    span:
+    - body
+    - 272
+    - 863
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d4.h1s1
+    span:
+    - body
+    - 863
+    - 1583
+  label: 白喉證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d5.h1s1
+    span:
+    - body
+    - 1583
+    - 2340
+  label: 辯證法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d6.h1s1
+    span:
+    - body
+    - 2340
+    - 2485
+  label: 辨脈法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d7.h1s1
+    span:
+    - body
+    - 2485
+    - 2899
+  label: 用藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d8.h1s1
+    span:
+    - body
+    - 2899
+    - 3198
+  label: 白喉熱證尚輕治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d9.h1s1
+    span:
+    - body
+    - 3198
+    - 3516
+  label: 白喉熱證漸重治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d10.h1s1
+    span:
+    - body
+    - 3516
+    - 3791
+  label: 白喉寒證尚輕治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d11.h1s1
+    span:
+    - body
+    - 3791
+    - 4067
+  label: 白喉寒證漸重治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d12.h1s1
+    span:
+    - body
+    - 4067
+    - 4284
+  label: 白喉虛熱證治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d13.h1s1
+    span:
+    - body
+    - 4284
+    - 4511
+  label: 白喉虛寒證治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d14.h1s1
+    span:
+    - body
+    - 4511
+    - 5350
+  label: 白喉寒熱錯雜證治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d15.h1s1
+    span:
+    - body
+    - 5350
+    - 5445
+  label: 續方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d16.h1s1
+    span:
+    - body
+    - 5445
+    - 5614
+  label: 白喉誤治壞證治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d17.h1s1
+    span:
+    - body
+    - 5614
+    - 6199
+  label: 白喉愈後補虛治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d18.h1s1
+    span:
+    - body
+    - 6199
+    - 6341
+  label: 婦人白喉證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d19.h1s1
+    span:
+    - body
+    - 6341
+    - 6457
+  label: 小兒白喉證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d20.h1s1
+    span:
+    - body
+    - 6457
+    - 6692
+  label: 白喉熱證吹藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d21.h1s1
+    span:
+    - body
+    - 6692
+    - 6986
+  label: 白喉寒證吹藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d22.h1s1
+    span:
+    - body
+    - 6986
+    - 7036
+  label: 白喉寒熱錯雜證吹藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d23.h1s1
+    span:
+    - body
+    - 7036
+    - 7575
+  label: 白喉雜治通用方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d24.h1s1
+    span:
+    - body
+    - 7575
+    - 7912
+  label: 白喉針穴經絡法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d25.h1s1
+    span:
+    - body
+    - 7912
+    - 9279
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d26.h1s1
+    span:
+    - body
+    - 9279
+    - 9342
+  label: 附治單雙乳蛾神效吹藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em027_jc_000-d27.h1s1
+    span:
+    - body
+    - 9342
+    - 9462
+  label: 附原定增減白喉熱證吹藥方
+  type: section
+  level: 1
+hash: sha256:1d8770eb64bd9c6b972c0b86038abdc7028786916fd3ac5d34693003829b8efe
