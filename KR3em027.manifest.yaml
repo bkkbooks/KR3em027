@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em027/v1
 canonical_location: https://kanripo.org/bkk/KR3em027/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 白喉全生集
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em027_000.yaml, hash: 'sha256:a20cd8a4ee7830ef660c9586796e91998455b143d5dd4b2c1221c6a1e66404cb'}
+  - {seq: 0, filename: KR3em027_000.yaml, hash: 'sha256:ad227ee4225542157f06e32f15be5cac6c2671a634ead6e28dc387ebc6ba5f3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em027_000.markers.yaml, hash: 'sha256:705b39c62cdc37d022f3296ac02070ab9b221fce0cf13bc8acbccf2c9340f08d'}
+  - {seq: 0, role: markers, filename: assets/KR3em027_000.markers.yaml, hash: 'sha256:d8e48a3d9459979e4822d85cb328287d2b37958a7e55a62f8aa3cf20eacb7ab0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -281,4 +281,7 @@ table_of_contents:
   label: 附原定增減白喉熱證吹藥方
   type: section
   level: 1
-hash: sha256:ed1de7cd7f6018b4d61f33cf9381089d5d56f7629a9ef777130763ac6fde5963
+hash: sha256:31dfa0f9d72189b765e4b5fe0cf308e288ad693afe977ebee3a76622ca1b908b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
