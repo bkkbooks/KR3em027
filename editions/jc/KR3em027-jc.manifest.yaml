@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em027_000-jc.yaml, hash: 'sha256:a20cd8a4ee7830ef660c9586796e91998455b143d5dd4b2c1221c6a1e66404cb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em027_000-jc.markers.yaml, hash: 'sha256:093fc38c8a9b77d0beb89e0c3d4ae250c826979ce92fe84967d0f6b41618cb61'}
+  - {seq: 0, role: markers, filename: assets/KR3em027_000-jc.markers.yaml, hash: 'sha256:60fb6dfb45a7f3f8fb354f86f3c7a0ff8a06916c1edc2d729c72a6c7055c4288'}
 table_of_contents:
 - ref:
     seq: 0
@@ -281,4 +281,4 @@ table_of_contents:
   label: 附原定增減白喉熱證吹藥方
   type: section
   level: 1
-hash: sha256:1d8770eb64bd9c6b972c0b86038abdc7028786916fd3ac5d34693003829b8efe
+hash: sha256:fd92a7cf7fe23b7c7f75a882565aeff10d24fba6433486dc33827692fa1fc44a
